@@ -1,0 +1,42 @@
+# Iontophoresis {#ionto}
+
+## Commercial units
+### Drionic 
+### Fischer MD-1a 
+### Idrostar
+
+## Homemade units
+
+### Power supply
+
+lantern batteries, DC adapter (danger!), galvanic pulsed stimulator
+
+### Water reservoir
+Plastic bins/trays, aluminum pie pans, etc.
+
+### Wiring tips
+buy alligator clips
+use aluminum foil/strips as electrodes: they will corrode, so replace regularly
+
+### Treatment schedule
+Initial - 7 to 30 (!) daily treatments, 20 minutes per appendange; often 6-10 initial treatments
+Maintenance - a treatment once every 3 to 14 days (varies per individual: if you required more initial treatments, you will require more frequent maintenance treatments)
+
+## Water type and additives
+### Know your tap water
+Trace minerals seem to vastly affect how well iontophoresis works.
+Do you know if your tap water is hard (containing minerals such as iron and calcium) or soft (low mineral content)? 
+Several users have found that hard water works better than soft or distilled water (which contains no minerals).
+Note that not all hard water is the same: some may have high iron content, while others are relatively higher in magnesium, calcium, or other minerals.
+We do not yet know what trace mineral(s) increase the efficacy of iontophoresis--or if they are indeed critical.
+If you're unsure how hard your tap water is, an alternative to tap water that some users have found effective is to use rain water (which also contains an array of trace minerals that is likely more consistent worldwide than tap water).
+If rain water is infeasible to collect and your tap water doesn't seem effective, don't give up hope: various additives have been found to increase iontophoresis efficacy.
+
+### Salt 
+Iodized table salt vs. sea salt with trace minerals (magnesium, potassium, and more)
+
+### Baking soda
+Sodium bicarbonate
+
+### Antiperspirants
+Some users find that the effectiveness of tap water iontophoresis is vastly improved (i.e., less treatment needed to achieve the same reduction in sweat) if they first apply an aluminum-based antiperspirant such as Driclor or Certain Dri to their hands/feet.

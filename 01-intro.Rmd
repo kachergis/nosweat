@@ -1,0 +1,34 @@
+# Introduction: Why we sweat {#intro}
+
+## A human history of sweat
+Sweat sets us apart from most animals: humans have the most pervasive sweat (eccrine) system.
+Why do we need such an cooling system? 
+One hypothesis is that our ancestors were persistence hunters, meaning that they would chase and track prey like gazelles for long distances on the savannah. 
+Although we cannot outrun gazelles and other prey for short distances, we have more stamina, and they will become exhausted after running several miles, scared for their lives.
+After tracking their prey and eventually catching up, our ancestors may have only had to deliver a coups de grace to the frightened beasts.
+
+Could diversity in our ancestors' climates or diets have further impacted our present sweating behavior?
+
+
+## How much sweat is too much?
+
+	- normal sweating vs. hyperhidrosis
+	- social impact of too much sweating
+	- axillary hyperhidrosis
+	- palmar-plantar hyperhidrosis
+
+## Anecdotes
+
+After finding relief for my sweaty hands, I took up social dancing and became more aware of how many others suffer from sweaty hands in the US: I estimate as many as 1 in 15 of my dance partners would have at least mildly sweaty palms. 
+And just think--those are the ones who still chose to go dancing!
+However, I was more surprised after attending a swing dance event in Stockholm, Sweden, where I found that nearly half of the partners I danced with had hands that rivaled mine in sweatiness.
+Granted, this was a single event and I danced with no more than a dozen partners, but this suspicious coincidence of so many dancers suffering HH in Stockholm, along with my family's northern European heritage led me to the hypothesis that HH may be more prevalent in some populations -- a genetic basis for HH.
+
+Coupled with this observation is the fact that a few women of Mediterranean descent I've known sweat too little (and instead become red-faced).
+
+## Outline of the book
+
+The outline of this book is as follows. 
+In `{#science}` the basic science of sweating is explained, from how sweat glands work to the nervous system that controls them.
+In Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+

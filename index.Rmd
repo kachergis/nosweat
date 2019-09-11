@@ -1,0 +1,26 @@
+--- 
+title: "Don't Sweat It: A Guide to Dealing with Excessive Sweating"
+author: "cogsciguy"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: cogsciguy/nosweat
+description: "Many of those facing excessive sweating are unaware that their condition is a medical one (hyperhidrosis), and simply try to cope with it untreated, which can lead to great stress and anxiety in a variety of everyday situations, from shaking hands to manual labor or any social situation. Even once they know the name of this disorder, figuring out a treatment plan that works consistently without debilitating side effects is a daunting challenge."
+---
+
+
+```{r eval=FALSE, include=FALSE}
+install.packages("bookdown")
+```
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

@@ -2,69 +2,73 @@
 
 A. Definition and prevalence
 
-Definition of hyperhidrosis
-a. Excessive and uncontrollable sweating
-b. Disruption of daily activities and quality of life
-Prevalence of hyperhidrosis
-a. Global prevalence rates
-b. Variability across age groups and geographical regions
-Impact of hyperhidrosis on individuals
-a. Physical discomfort and skin issues
-b. Emotional and psychological effects
+1. Definition of hyperhidrosis
+  a. Excessive and uncontrollable sweating
+  b. Disruption of daily activities and quality of life
+2. Prevalence of hyperhidrosis
+  a. Global prevalence rates
+  b. Variability across age groups and geographical regions
+3. Impact of hyperhidrosis on individuals
+  a. Physical discomfort and skin issues
+  b. Emotional and psychological effects
+
+
 B. Primary hyperhidrosis
 
-Definition and characteristics
-a. Idiopathic excessive sweating
-b. No underlying medical cause
-Focal hyperhidrosis
-a. Description and common areas affected
-i. Palmar (hands)
-ii. Plantar (feet)
-iii. Axillary (underarms)
-iv. Craniofacial (head and face)
-b. Onset and progression patterns
-Genetic factors
-a. Family history and heritability
-b. Identification of potential candidate genes
-c. Ongoing research on the genetic basis of hyperhidrosis
-Overactive sympathetic nervous system
-a. Role of sympathetic activation in primary hyperhidrosis
-b. Theories on why the sympathetic nervous system becomes overactive
-c. Potential therapeutic targets for treatment
+1. Definition and characteristics
+  a. Idiopathic excessive sweating
+  b. No underlying medical cause
+2. Focal hyperhidrosis
+  a. Description and common areas affected
+    i. Palmar (hands)
+    ii. Plantar (feet)
+    iii. Axillary (underarms)
+    iv. Craniofacial (head and face)
+  b. Onset and progression patterns
+3. Genetic factors
+  a. Family history and heritability
+  b. Identification of potential candidate genes
+  c. Ongoing research on the genetic basis of hyperhidrosis
+4. Overactive sympathetic nervous system
+  a. Role of sympathetic activation in primary hyperhidrosis
+  b. Theories on why the sympathetic nervous system becomes overactive
+  c. Potential therapeutic targets for treatment
+
 C. Secondary hyperhidrosis
 
-Definition and characteristics
-a. Excessive sweating due to an underlying medical condition or medication
-b. Generalized or localized sweating patterns
-Underlying medical conditions
-a. Infections (e.g., tuberculosis, HIV)
-b. Endocrine disorders (e.g., hyperthyroidism, diabetes)
-c. Neurological disorders (e.g., Parkinson's disease, spinal cord injury)
-d. Autoimmune diseases (e.g., rheumatoid arthritis, lupus)
-e. Malignancies (e.g., lymphoma, carcinoid tumors)
-Medications
-a. Common medications causing hyperhidrosis
-i. Antidepressants
-ii. Antipsychotics
-iii. Anticholinesterases
-iv. Opioids
-b. Mechanisms of medication-induced hyperhidrosis
-Hormonal imbalances
-a. Menopause and hot flashes
-b. Andropause in men
-c. Effects of hormonal imbalances on sweat gland function
+1. Definition and characteristics
+  a. Excessive sweating due to an underlying medical condition or medication
+  b. Generalized or localized sweating patterns
+2. Underlying medical conditions
+  a. Infections (e.g., tuberculosis, HIV)
+  b. Endocrine disorders (e.g., hyperthyroidism, diabetes)
+  c. Neurological disorders (e.g., Parkinson's disease, spinal cord injury)
+  d. Autoimmune diseases (e.g., rheumatoid arthritis, lupus)
+  e. Malignancies (e.g., lymphoma, carcinoid tumors)
+3. Medications
+  a. Common medications causing hyperhidrosis
+    i. Antidepressants
+    ii. Antipsychotics
+    iii. Anticholinesterases
+    iv. Opioids
+  b. Mechanisms of medication-induced hyperhidrosis
+4. Hormonal imbalances
+  a. Menopause and hot flashes
+  b. Andropause in men
+  c. Effects of hormonal imbalances on sweat gland function
+
 D. Diagnosing hyperhidrosis
 
-Patient history and physical examination
-a. Identifying the extent and severity of sweating
-b. Assessing the impact on daily life
-Diagnostic tests
-a. Gravimetric sweat test
-b. Starch-iodine test
-c. Thermoregulatory sweat test (TST)
-Differential diagnosis
-a. Ruling out secondary causes of hyperhidrosis
-b. Identifying any underlying medical conditions or medication use
-Determining the type and severity of hyperhidrosis
-a. Classification systems and severity scales
-b. Guiding treatment decisions based on diagnosis
+1. Patient history and physical examination
+  a. Identifying the extent and severity of sweating
+  b. Assessing the impact on daily life
+2. Diagnostic tests
+  a. Gravimetric sweat test
+  b. Starch-iodine test
+  c. Thermoregulatory sweat test (TST)
+3. Differential diagnosis
+  a. Ruling out secondary causes of hyperhidrosis
+  b. Identifying any underlying medical conditions or medication use
+4. Determining the type and severity of hyperhidrosis
+  a. Classification systems and severity scales
+  b. Guiding treatment decisions based on diagnosis

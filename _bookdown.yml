@@ -2,4 +2,5 @@ book_filename: "no-sweat"
 language:
   ui:
     chapter_name: "Chapter "
+rmd_files: ["index.Rmd", "01-intro.Rmd", "03-diet.Rmd", "04-oral.Rmd", "05-topical.Rmd"]
 delete_merged_file: true

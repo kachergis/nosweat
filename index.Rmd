@@ -1,7 +1,7 @@
 --- 
 title: "Don't Sweat It: A Guide to Dealing with Excessive Sweating"
-author: "cogsciguy"
-date: "`r Sys.Date()`"
+author: "George"
+date: "April 22, 2023"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

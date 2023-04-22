@@ -12,10 +12,27 @@ Could diversity in our ancestors' climates or diets have further impacted our pr
 
 ## How much sweat is too much?
 
-	- normal sweating vs. hyperhidrosis
-	- social impact of too much sweating
-	- axillary hyperhidrosis
-	- palmar-plantar hyperhidrosis
+### Too much of a good thing: Hyperhidrosis
+
+Symptoms
+Excessive sweating is a medical condition characterized by sweating in amounts greater than required for thermoregulation. It can affect any part of the body, but commonly occurs in the armpits, hands, and feet. People with hyperhidrosis may experience sweating that is so severe that it interferes with daily activities, such as work or social interactions, leading to embarrassment, social anxiety, and decreased self-esteem.
+
+### Causes
+The exact cause of hyperhidrosis is not known, but it is believed to be related to overactive sweat glands. The condition can be inherited, and it often runs in families. It can also be caused by certain medical conditions such as diabetes, thyroid problems, menopause, and certain infections.
+
+
+### The impact of excessive sweating on social life
+Excessive sweating can have a significant impact on a person's social life. People with hyperhidrosis may feel embarrassed or ashamed of their sweating, which can cause them to avoid social situations or activities that may trigger sweating. This can lead to social isolation and negatively affect relationships with friends, family, and romantic partners. The fear of sweating can also impact career choices and performance, as people may avoid certain jobs or work environments where sweating is more likely to occur.
+
+### The psychological effects of hyperhidrosis
+Hyperhidrosis can have a profound effect on a person's mental health. The embarrassment and social isolation caused by excessive sweating can lead to depression, anxiety, and decreased self-esteem. People with hyperhidrosis may also experience feelings of shame and inadequacy, which can impact their overall quality of life. The psychological impact of hyperhidrosis should not be underestimated, and seeking psychological support may be an important part of managing the condition.
+
+
+### Treatments
+There are several treatments available for hyperhidrosis, including antiperspirants, medications, and surgery. Antiperspirants containing aluminum chloride can be applied to the affected area to reduce sweating. Prescription medications, such as anticholinergics, beta-blockers, and benzodiazepines, can also be used to reduce sweating. In severe cases, surgical procedures such as sympathectomy, which involves cutting the nerves that stimulate sweating, can be performed.
+
+- axillary hyperhidrosis
+- palmar-plantar hyperhidrosis
 
 ## Anecdotes
 
@@ -24,7 +41,20 @@ And just think--those are the ones who still chose to go dancing!
 However, I was more surprised after attending a swing dance event in Stockholm, Sweden, where I found that nearly half of the partners I danced with had hands that rivaled mine in sweatiness.
 Granted, this was a single event and I danced with no more than a dozen partners, but this suspicious coincidence of so many dancers suffering HH in Stockholm, along with my family's northern European heritage led me to the hypothesis that HH may be more prevalent in some populations -- a genetic basis for HH.
 
-Coupled with this observation is the fact that a few women of Mediterranean descent I've known sweat too little (and instead become red-faced).
+Coupled with this observation is the anecdata that I've also met a few people of Mediterranean descent who face the opposite issue: they sweat too little, a condition dubbed hypohidrosis by doctors.
+
+
+### Hypohidrosis (inadequate sweating)
+
+Symptoms
+Hypohidrosis is a medical condition characterized by reduced or absent sweating, which can lead to overheating, dehydration, and heatstroke. The symptoms of hypohidrosis include dry skin, heat intolerance, dizziness, and rapid heartbeat.
+
+Causes
+Hypohidrosis can be caused by a variety of factors, including genetic disorders, nerve damage, and skin damage. It can also be caused by certain medications, such as antihistamines and diuretics, and medical conditions such as diabetes, autoimmune diseases, and some types of cancer.
+
+Treatments
+The treatment of hypohidrosis depends on the underlying cause. In some cases, treatment may not be necessary, and simply avoiding extreme temperatures and staying hydrated may be sufficient. For those with more severe symptoms, medications such as cholinergic agonists may be prescribed to stimulate sweating. In some cases, artificial sweat may be used to keep the skin moist and reduce the risk of overheating. Additionally, treatment of any underlying medical conditions may help to alleviate the symptoms of hypohidrosis.
+
 
 ## Outline of the book
 
@@ -32,3 +62,66 @@ The outline of this book is as follows.
 In `{#science}` the basic science of sweating is explained, from how sweat glands work to the nervous system that controls them.
 In Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
+
+Introduction
+a. Personal experience as a scientist with hyperhidrosis
+b. Importance of understanding the science of sweat
+c. Overview of the book
+
+Why humans sweat: An evolutionary perspective
+a. Thermoregulation
+i. Heat dissipation in humans compared to other animals
+ii. The role of eccrine sweat glands
+b. Advantages of sweating in human evolution
+i. Efficient cooling system enabling long-distance running
+ii. Hairlessness and the development of sweat glands
+c. Unique aspects of human sweating
+i. Distribution and density of sweat glands
+ii. The composition of human sweat
+
+The biology of sweating
+a. The role of the hypothalamus in thermoregulation
+b. Sympathetic nervous system and sweat gland activation
+c. Neurotransmitters and hormones involved in sweating
+i. Acetylcholine
+ii. Norepinephrine
+iii. Vasoactive intestinal peptide (VIP)
+iv. Serotonin
+v. Endorphins
+vi. Cortisol
+d. Emotional sweating: Stress, anxiety, and fear responses
+e. Sweat types: Eccrine, apocrine, and apoeccrine glands
+
+Hyperhidrosis: Causes and types
+a. Definition and prevalence
+b. Primary hyperhidrosis
+i. Focal hyperhidrosis
+ii. Genetic factors
+iii. Overactive sympathetic nervous system
+c. Secondary hyperhidrosis
+i. Underlying medical conditions
+ii. Medications
+iii. Hormonal imbalances
+d. Diagnosing hyperhidrosis
+
+Treatment options for hyperhidrosis
+a. Lifestyle changes and self-care
+b. Topical treatments: Antiperspirants and medications
+c. Oral medications
+d. Iontophoresis
+e. Botox injections
+f. Microwave thermolysis
+g. Surgical options
+h. Emerging treatments and ongoing research
+
+The social stigma of hyperhidrosis
+a. Impact on mental health and self-esteem
+b. Misconceptions and lack of awareness
+c. Strategies for coping with stigma and discrimination
+d. The importance of support networks and patient advocacy
+
+Conclusion
+a. The complexity of the human sweating system
+b. The challenges faced by hyperhidrosis sufferers
+c. The need for further research and increased awareness
+d. Personal reflections on living with hyperhidrosis as a medical doctor

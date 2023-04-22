@@ -1,0 +1,74 @@
+# The biology of sweating {#bio}
+
+A. The role of the hypothalamus in thermoregulation
+
+1. Overview of the hypothalamus
+  a. Location and structure within the brain
+  b. Functions in maintaining homeostasis
+
+2. Hypothalamic thermoregulation
+  a. Sensing changes in body temperature
+    i. Role of peripheral and central thermoreceptors
+    ii. Integration of temperature information in the hypothalamus
+  b. Initiating thermoregulatory responses
+    i. Activation of heat loss mechanisms (e.g., sweating)
+    ii. Activation of heat conservation mechanisms (e.g., vasoconstriction)
+
+B. Sympathetic nervous system and sweat gland activation
+
+1. Overview of the sympathetic nervous system
+  a. Role in the "fight or flight" response
+  b. Effects on various organ systems
+2. Sympathetic activation of sweat glands
+  a. Role of sympathetic cholinergic neurons
+  b. Mechanisms of sweat gland stimulation and secretion
+    i. Binding of neurotransmitters to sweat gland receptors
+    ii. Activation of ion transporters and channels
+
+C. Neurotransmitters and hormones involved in sweating
+
+1. Acetylcholine
+  a. Role in stimulating eccrine sweat glands
+  b. Release from sympathetic cholinergic neurons
+2. Norepinephrine
+  a. Role in apocrine sweat gland activation
+  b. Release from sympathetic adrenergic neurons
+3. Vasoactive intestinal peptide (VIP)
+  a. Role in emotional sweating
+  b. Release from sympathetic neurons and its effect on sweat gland function
+4. Serotonin
+  a. Role in modulating sweat gland function
+  b. Serotonin receptors on sweat glands and their effects
+5. Endorphins
+  a. Role in exercise-induced sweating
+  b. Mechanisms of endorphin release and its impact on thermoregulation
+6. Cortisol
+  a. Role in stress-induced sweating
+  b. Effects of cortisol on sweat gland function and secretion
+
+D. Emotional sweating: Stress, anxiety, and fear responses
+
+1. Overview of emotional sweating
+  a. Differences from thermoregulatory sweating
+  b. Areas of the body most affected by emotional sweating
+2. Neural pathways involved in emotional sweating
+  a. Role of the amygdala, hypothalamus, and limbic system
+  b. Integration of emotional and thermoregulatory signals
+3.Psychological factors influencing emotional sweating
+  a. Anxiety and stress sensitivity
+  b. Coping mechanisms and their impact on sweating
+
+E. Sweat types: Eccrine, apocrine, and apoeccrine glands
+
+1. Eccrine glands
+  a. Description and distribution
+  b. Role in thermoregulation
+  c. Sweat composition
+2. Apocrine glands
+  a. Description and distribution
+  b. Role in emotional sweating and pheromone release
+  c. Sweat composition and odor production
+3. Apoeccrine glands
+  a. Description and distribution
+  b. Hybrid function and secretion characteristics
+  c. Sweat composition and potential functions in humans
